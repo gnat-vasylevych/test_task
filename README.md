@@ -20,3 +20,12 @@ as sum of all previous transactions.
 - renewal_number - rows with event_name 'refund' or 'cancellation' are not counted as subscription renewal
 
 
+# Task 2
+I assume that the user can only have one active subscription at a time.
+
+Edge case to consider
+User subscription journey
+
+sub1_plan [date1, date2]
+sub2_plan [date2, date3]
+again sub1_plan [date3, date4]
