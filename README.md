@@ -27,5 +27,7 @@ Edge case to consider
 User subscription journey
 
 sub1_plan [date1, date2]
+
 sub2_plan [date2, date3]
+
 again sub1_plan [date3, date4]
